@@ -1,0 +1,2 @@
+# dots
+BSPWM Rice Dotfiles
